@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-- 🌱  Currently seeking an internship, I am a passionate software enthusiast looking to further develop my skills and knowledge in the world of programming.<br>- 💻 My interest in front-end development has led me to focus on React and JavaScript technologies.<br>- ☕ I am also interested in Java and actively work with it on various projects.<br>
-
+- 🌱   I am a passionate software enthusiast looking to further develop my skills and knowledge in the world of programming.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tuyancerensağlam) 

@@ -67,11 +67,3 @@ Full Stack Developer experienced in building scalable web applications and backe
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=plastic\&logo=pnpm\&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=plastic\&logo=npm\&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=plastic\&logo=yarn\&logoColor=white)
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=tuyanceren\&theme=react\&hide_border=false\&include_all_commits=false\&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=tuyanceren\&theme=react\&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tuyanceren\&theme=react\&hide_border=false\&include_all_commits=false\&count_private=true\&layout=compact)

@@ -58,7 +58,6 @@ Full Stack Developer experienced in building scalable web applications and backe
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=plastic\&logo=jenkins\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic\&logo=linux\&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=plastic\&logo=nginx\&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=plastic\&logo=apache-kafka\&logoColor=white)
 
 ### Tools
 
@@ -71,8 +70,8 @@ Full Stack Developer experienced in building scalable web applications and backe
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=tuyanceren\&theme=react\&hide_border=false\&include_all_commits=false\&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=tuyanceren\&theme=react\&hide_border=false\&include_all_commits=false\&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tuyanceren\&theme=react\&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tuyanceren\&theme=react\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tuyanceren\&theme=react\&hide_border=false\&include_all_commits=false\&count_private=true\&layout=compact)
